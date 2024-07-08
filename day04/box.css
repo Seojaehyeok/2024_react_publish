@@ -1,0 +1,26 @@
+.box {
+  width: 300px;
+  height: 300px;
+  border: 2px solid black;
+}
+
+.red {
+    /* px - 절대값 */
+    /* % - 상대값 : 자기 부모 */
+    background-color: red;
+    height: 25%;
+}
+
+.blue {
+    background-color: blue;
+    height: 25%;
+}
+
+.green {
+    background-color: green;
+    height: 25%;
+}
+.yellow {
+    background-color: yellow;
+    height: 25%;
+}

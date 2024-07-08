@@ -1,0 +1,25 @@
+.story {
+  width: 100px;
+  height: 120px;
+}
+
+.insta {
+  width: 100%;
+  height: 80%;
+  border-radius: 9999px;
+  padding: 2px;
+  border: 2px solid #c7c7cc;
+}
+
+.insta > img {
+  width: 100%;
+  height: 100%;
+  border-radius: 9999px;
+  object-fit: cover;
+}
+
+.name {
+  width: 100%;
+  text-align: center;
+  margin-top: 3px;
+}

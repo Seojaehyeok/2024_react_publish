@@ -1,0 +1,32 @@
+.box {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    /* border: 1px solid black; */
+    width: fit-content;
+    padding: 20px;
+}
+
+.icon {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.cloth {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cloth > i {
+    font-size: 20px;
+}
+
+.a > span {
+    font-size: 12px;
+}

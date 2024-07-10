@@ -1,0 +1,25 @@
+.box {
+    display: flex;
+    flex-direction: row;
+}
+
+.all {
+    color: white;
+    background-color: blue;
+    width: fit-content;
+    padding: 5px 15px 5px 15px;
+    margin-right: 5px;
+    border-radius: 100px;
+    font-weight: 1000;
+}
+
+.ha {
+    background-color: white;
+    width: fit-content;
+    padding: 5px 15px 5px 15px;
+    margin-right: 5px;
+    border: 1px solid #c7c7c7;
+    margin-right: 5px;
+    border-radius: 100px;
+    font-weight: 1000;
+}

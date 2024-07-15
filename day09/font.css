@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&family=Gugi&display=swap");
+
+@font-face {
+  font-family: "Ownglyph_ryurue-Rg";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/2405-2@1.0/Ownglyph_ryurue-Rg.woff2")
+    format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  width: 100vw;
+  height: 300vh;
+  background-color: skyblue;
+}
+
+.menu {
+  padding: 20px;
+  border: 3px solid pink;
+  width: fit-content;
+  font-size: 30px;
+
+  position: fixed;
+  /* top or bottom : 0px */
+  /* left or right : 0px */
+  bottom: 100px;
+  right: 100px;
+}
+
+.morning {
+  font-family: "Ownglyph_ryurue-Rg";
+}
+
+.lunch {
+  font-family: "Gugi", sans-serif;
+}
+
+.dinner {
+  font-family: "East Sea Dokdo", sans-serif;
+}

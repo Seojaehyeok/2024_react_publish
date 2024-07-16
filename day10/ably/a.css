@@ -1,0 +1,43 @@
+/* .a {
+  width: 100vw;
+  height: 300px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.a__container {
+  width: 100%;
+  max-width: 960px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.b {
+  font-family: "Pretendard-Regular";
+  font-size: 30px;
+  color: #757575;
+}
+
+.c {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+  margin-top: 30px;
+
+  gap: 10px;
+}
+
+.d {
+  font-weight: 500;
+  color: black;
+} */
+
+/* 나의 코드 */
